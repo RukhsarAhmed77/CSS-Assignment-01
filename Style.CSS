@@ -1,0 +1,95 @@
+.headone{
+    background-color:rgb(235, 124, 124);
+    color:rgb(206, 188, 141) ;
+    text-shadow: 0px 0px 9px black;
+    font-size: 50px;
+}
+.one{
+    color: blueviolet;
+}
+.two{
+    background-color: yellow;
+    color: orange;
+}
+.three{
+    background-color: lightseagreen;
+    color: darkslategrey;
+}
+.mainbody{
+    background-color:aliceblue;
+    font-size: 20px;
+    display: justify;
+    line-height: 2em;
+}
+.button {
+    width: 200px;
+    height: 50px;
+    background-color: #ffffff;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 50px;
+    box-shadow: 1px 2px 9px gray;
+    transition: 0.5s;
+}
+.button:hover {
+    background-color: dimgrey;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    width: 300px;
+    height: 80px;
+    color: white;
+    box-shadow: 2px 5px 9px rgb(255, 255, 255);
+    transition: 0.5s;
+}
+.Par{
+    font-family: serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: lightsalmon;
+    color: rgb(0, 0, 0);
+}
+body > P{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(189, 183, 183);
+}
+.second{
+    background-color: lightyellow;
+}
+.main{
+    background-image:url(background.jpeg);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0;
+    height: 84.4vh;
+}
+.button-back{
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    background-color: #3185ce;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 50px;
+    box-shadow: 1px 2px 9px gray;
+    transition: 0.5s;
+}
+.button-back:hover{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    background-color: rgba(180, 125, 235, 0.753);
+    color: rgb(0, 0, 0);
+    box-shadow:  1px 2px 9px rgb(223, 124, 223);
+    transition: 0.5s;
+}
