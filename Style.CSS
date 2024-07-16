@@ -35,7 +35,7 @@
     transition: 0.5s;
 }
 .button:hover {
-    background-color: dimgrey;
+    background-color: grey;
     font-weight: bold;
     font-size: 30px;
     text-align: center;
@@ -62,13 +62,9 @@ body > P{
     background-color: lightyellow;
 }
 .main{
-    background-image:url(background.jpeg);
-    color: white;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    padding: 0;
-    height: 84.4vh;
+    background-color: #19498b;
+    color: #ffffff;
+    text-shadow: 3px 5px 7px navajowhite;
 }
 .button-back{
     font-weight: bold;
